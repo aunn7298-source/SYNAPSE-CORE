@@ -1,0 +1,8 @@
+{
+  "name": "Remix OmniConnect",
+  "description": "An all-in-one social app for streaming, video chatting, voice messaging, and sharing stories or posts seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
